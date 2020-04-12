@@ -17,6 +17,6 @@ Specs200_299.csv: Dataset en formato csv donde se recopila la información anter
 Informe: PDF con el informe de la herramienta para la PRA1 de Tipología y Ciclo de vida del dato
 
 ## Recursos
-Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
+* Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
 
-Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+* Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
