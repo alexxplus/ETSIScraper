@@ -4,7 +4,7 @@ Herramienta para obtener las actualizaciones de las publicaciones de ETSI.
 ## Description
 En el contexto de la asignatura Tipología y Ciclo de vida del dato, del Máster de Ciencia de Datos de la UOC, se realiza una herramienta que recopile todas las publicaciones de ETSI para las especificaciones de SIM, generando un DataSet donde se detalla:
 * Especificación
-* Fehca de subida
+* Fecha de subida
 * Release
 * Versión
 
